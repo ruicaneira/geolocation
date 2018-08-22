@@ -32,28 +32,28 @@
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534941305522,
             "changeTime": 1534941305522,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1534940913551,
-            "changeTime": 1534940913551,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1534941313419,
+            "changeTime": 1534941313419,
+            "isWorkspace": false,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -303,14 +303,14 @@
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 183,
-            "modifiedTime": 1534941033173,
-            "changeTime": 1534941033173,
-            "contentHash": "6d3f6812a6c1b614697dc68dcf06eca006afa56d",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 204,
+            "modifiedTime": 1534941437167,
+            "changeTime": 1534941437167,
+            "contentHash": "3662519c8e6967c9adaf2305dd3d7b4ec0445ebf"
         }
     ],
     [
@@ -758,209 +758,339 @@
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1534941305525,
             "changeTime": 1534941305525,
-            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb"
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1534941305899,
             "changeTime": 1534941305899,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1534941305901,
             "changeTime": 1534941305901,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1534941305904,
             "changeTime": 1534941305904,
-            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5"
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1534941305914,
             "changeTime": 1534941305914,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1534941305917,
             "changeTime": 1534941305917,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 398589,
             "modifiedTime": 1534941305990,
             "changeTime": 1534941305990,
-            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256"
+            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 759894,
             "modifiedTime": 1534941306001,
             "changeTime": 1534941306001,
-            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b"
+            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 400314,
             "modifiedTime": 1534941306076,
             "changeTime": 1534941306076,
-            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f"
+            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 759986,
             "modifiedTime": 1534941306088,
             "changeTime": 1534941306088,
-            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380"
+            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14106,
             "modifiedTime": 1534941306097,
             "changeTime": 1534941306097,
-            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829"
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 140540,
             "modifiedTime": 1534941306167,
             "changeTime": 1534941306167,
-            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864"
+            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 191113,
             "modifiedTime": 1534941306177,
             "changeTime": 1534941306177,
-            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17"
+            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534941305894,
             "changeTime": 1534941305894,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534941305915,
             "changeTime": 1534941305915,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "state": "u",
             "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534941306169,
             "changeTime": 1534941306169,
-            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a"
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534941313432,
+            "changeTime": 1534941313432,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1534941313432,
+            "changeTime": 1534941313432,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 257,
+            "modifiedTime": 1534941437166,
+            "changeTime": 1534941437166,
+            "contentHash": "3db53485d80f66fb1f2ed3b639b86316e4ac2208"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1534941313425,
+            "changeTime": 1534941313425,
+            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 46,
+            "modifiedTime": 1534941437167,
+            "changeTime": 1534941437167,
+            "contentHash": "724275a72e68b7812ce001b8cb0d8870eeacd1fd"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1534941313433,
+            "changeTime": 1534941313433,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534941313432,
+            "changeTime": 1534941313432,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 387,
+            "modifiedTime": 1534941437167,
+            "changeTime": 1534941437167,
+            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534941313428,
+            "changeTime": 1534941313428,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Formação\\Salesforce DX\\TrailDXProject\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534941313429,
+            "changeTime": 1534941313429,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
